@@ -1,0 +1,21 @@
+
+.origami1{
+   border: solid;
+   width: 500px;   
+   
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+}
+.links
+{
+   margin-bottom: 20px;
+}
+
+.header{
+    padding-top: 5px;
+    background-color: rgb(42, 165, 73);
+}
+
